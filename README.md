@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swati 👩‍💻</h1>
-<h3 align="center">A fervent Full-Stack developer and pre-final year student in BE Information Technology from India</h3>
+<h3 align="center">A fervent Full-Stack developer and final year student in BE Information Technology from India</h3>
 <img  align="right" width="400" alt="girl-coder"src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif">
 - 🌱 I’m currently learning **ReactJS,Redux toolkit ,System design and Data Structures**
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
-- 👨‍💻 All of my projects are available at [https://main--cute-tartufo-324657.netlify.app/](https://main--cute-tartufo-324657.netlify.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://swati-portfolioweb.netlify.app/)
 
 - 💬 Ask me about **React ,MongoDB, Frontend development**
 
