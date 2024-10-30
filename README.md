@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **swati2003mry@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13yel2Iu6h-KLDXO2wQ0K0aG9KfVxIedR/view](https://drive.google.com/file/d/13yel2Iu6h-KLDXO2wQ0K0aG9KfVxIedR/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1WBw0kWA2A3FGw-MkJXfK9LqhjEqVROSQ/view?usp=drive_link)
 
 - ⚡ Fun fact **The error '404 Not Found' haunts me in dreams.**
 
